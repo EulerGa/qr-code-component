@@ -34,7 +34,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 15px;
+    padding: 15px 15px 40px 15px;
 }
 .qr-body img {
     width: 100%;
@@ -45,7 +45,7 @@ main {
     text-align: center;
 }
 .qr-body p {
-    font: size 15px;
+    font-size: 15px;
     margin: 0 10px;
     text-align: center;
     color: var(--grayish-blue);
